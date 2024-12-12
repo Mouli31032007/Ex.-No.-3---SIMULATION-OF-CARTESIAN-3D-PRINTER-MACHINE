@@ -1,5 +1,5 @@
 # Ex. No.  - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
-### DATE: 
+### DATE: 12/12/24.
 
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
@@ -48,20 +48,21 @@
 ###   3.	Move the z-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z-axis assembly.
 
 ## OUTPUT
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/3b394ffa-4aea-4e56-a12b-eccab47afee5)
+![WhatsApp Image 2024-12-12 at 10 37 44_1abc14da](https://github.com/user-attachments/assets/f5af6f90-7b24-4be0-9258-81758f8fd554)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/cf47ce68-c7b4-4cbc-b57f-ccd68b7bcbb7)
+![WhatsApp Image 2024-12-12 at 10 38 13_da10f696](https://github.com/user-attachments/assets/009fc470-4840-4351-a539-651b95feed4d)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/803397cb-5685-4bc2-82c2-6b1d1e3a2eec)
+![WhatsApp Image 2024-12-12 at 10 38 13_d88bd9ed](https://github.com/user-attachments/assets/6b3ac11f-fc55-40c8-b6bc-dc386101f64b)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/45ac4da8-f236-4e23-b0ce-a77aac6ac8b0)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
+![WhatsApp Image 2024-12-12 at 10 38 12_3de3712b](https://github.com/user-attachments/assets/de4942bb-7ae7-4df4-9853-81adb0817be5)
 
 ## Output:
+![3D PRINTING (EMPD)](https://github.com/user-attachments/assets/d6a5ff5a-2fd3-4935-8117-d408d7710e19)
 
-### Name: 
-### Register Number:
+
+### Name:S.MOULIDHARAN.
+### Register Number:24901036
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
